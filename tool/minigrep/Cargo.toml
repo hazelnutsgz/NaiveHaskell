@@ -1,0 +1,7 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["Lance She <15201752137@163.com>"]
+edition = "2018"
+
+[dependencies]
